@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use these numbers, cite the article and this repository, and keep the ranges attached."
+title: "Deck Economics: a transparent cost model of deck production in IB, PE and consulting"
+type: software
+authors:
+  - family-names: Reindlmeier
+    given-names: Luis
+    affiliation: Gedonus
+date-released: 2026-08-11
+url: "https://gedonus.com/blog/deck-economics"
+repository-code: "https://github.com/Gedonus-AI/deck-economics"
+license: MIT
+keywords:
+  - deck economics
+  - pitchbook
+  - investment banking
+  - private equity
+  - consulting
+  - monte carlo
+  - reproducible research

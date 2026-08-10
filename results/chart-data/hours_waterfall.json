@@ -1,0 +1,19 @@
+{
+  "title": "Hours per sell-side pitchbook (median, model estimate)",
+  "steps": [
+    {
+      "label": "First draft",
+      "hours": 35.532893488146435
+    },
+    {
+      "label": "Revision churn",
+      "hours": 37.14845067226271
+    },
+    {
+      "label": "Senior review",
+      "hours": 22.65044783044459
+    }
+  ],
+  "note": "Median of each component; component medians need not sum exactly to the median total.",
+  "median_total": 96.59392670200008
+}
