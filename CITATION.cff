@@ -8,7 +8,7 @@ authors:
     affiliation: Gedonus
 date-released: 2026-08-11
 url: "https://gedonus.com/blog/deck-economics"
-repository-code: "https://github.com/Gedonus-AI/deck-economics"
+repository-code: "https://github.com/gedonus/deck-economics"
 license: MIT
 keywords:
   - deck economics
