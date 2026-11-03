@@ -1,0 +1,39 @@
+{
+  "note": "Persisted scenario outputs backing RESULTS.md prose. Halving scenario uses the SEED draws; pinned scenarios use the SEED+1 basis like the tornado.",
+  "pitchbook_median_base": 13610.120780567831,
+  "halve_ib_hrs_per_page": {
+    "median": 6805.060390283916,
+    "delta_vs_base": 6805.060390283916
+  },
+  "pin_ib_hrs_per_page_p10": {
+    "median": 8578.85209490368,
+    "delta_vs_tornado_base": 5056.072654280069
+  },
+  "pin_ib_analyst_comp_p10": {
+    "median": 13333.253560980655,
+    "delta_vs_tornado_base": 301.67118820309406
+  },
+  "pin_all_comp_params_p10": {
+    "params": [
+      "ib_analyst_comp",
+      "ib_associate_comp",
+      "ib_vp_comp",
+      "load"
+    ],
+    "median": 11330.889901780149
+  },
+  "swing_ratio_volume_levers_vs": {
+    "ib_vp_comp": {
+      "ib_hrs_per_page": 7.56,
+      "pitchbook_pages": 8.44,
+      "ib_churn": 3.76,
+      "review_share": 2.7
+    },
+    "ib_analyst_comp": {
+      "ib_hrs_per_page": 19.32,
+      "pitchbook_pages": 21.56,
+      "ib_churn": 9.62,
+      "review_share": 6.9
+    }
+  }
+}

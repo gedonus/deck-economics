@@ -1,0 +1,75 @@
+{
+  "base_median": 13634.924749183749,
+  "rows": [
+    {
+      "param": "pitchbook_pages",
+      "label": "Pitchbook length (pages)",
+      "low": 8524.907595505209,
+      "high": 21709.21866442765,
+      "swing": 13184.311068922443
+    },
+    {
+      "param": "ib_hrs_per_page",
+      "label": "First-draft hours per page",
+      "low": 8578.85209490368,
+      "high": 20390.33969610258,
+      "swing": 11811.4876011989
+    },
+    {
+      "param": "ib_churn",
+      "label": "Revision-churn factor",
+      "low": 11083.923637698204,
+      "high": 16964.453508367536,
+      "swing": 5880.529870669332
+    },
+    {
+      "param": "review_share",
+      "label": "Senior-review share",
+      "low": 11692.432670249698,
+      "high": 15910.023146263804,
+      "swing": 4217.590476014106
+    },
+    {
+      "param": "load",
+      "label": "Cost-loading multiplier",
+      "low": 12783.548552965483,
+      "high": 14516.82222156115,
+      "swing": 1733.273668595666
+    },
+    {
+      "param": "ib_vp_comp",
+      "label": "VP total comp",
+      "low": 12887.008517091128,
+      "high": 14449.352094337446,
+      "swing": 1562.343577246318
+    },
+    {
+      "param": "ib_associate_comp",
+      "label": "Associate total comp",
+      "low": 13149.466420191313,
+      "high": 14129.065421582918,
+      "swing": 979.5990013916053
+    },
+    {
+      "param": "ib_analyst_hours",
+      "label": "Analyst weekly hours",
+      "low": 14112.129974495196,
+      "high": 13194.813895578873,
+      "swing": 917.316078916323
+    },
+    {
+      "param": "weeks",
+      "label": "Weeks worked per year",
+      "low": 13949.493043050803,
+      "high": 13324.176189012556,
+      "swing": 625.3168540382467
+    },
+    {
+      "param": "ib_analyst_comp",
+      "label": "Analyst total comp",
+      "low": 13333.253560980655,
+      "high": 13944.68380889672,
+      "swing": 611.4302479160651
+    }
+  ]
+}

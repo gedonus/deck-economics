@@ -1,0 +1,51 @@
+{
+  "title": "Cost composition per deck (median of each component, USD)",
+  "note": "Component medians; they need not sum exactly to the median total. Senior review is priced at VP (IB/PE) or senior-consultant rates; the review-share parameter is an assumption (tri 0.15/0.30/0.50).",
+  "series": {
+    "pitchbook": {
+      "draft_cost_median": 3272.888781000288,
+      "churn_cost_median": 3426.288534395074,
+      "review_cost_median": 6710.66020660737,
+      "junior_cost_percentiles": {
+        "p10": 3333.1140791846324,
+        "p50": 6778.11028656632,
+        "p90": 12851.168369189994
+      },
+      "total_cost_percentiles": {
+        "p10": 6623.041326495731,
+        "p50": 13610.120780567831,
+        "p90": 26154.047856777637
+      }
+    },
+    "ic_deck": {
+      "draft_cost_median": 2605.410143285695,
+      "churn_cost_median": 2384.983149677943,
+      "review_cost_median": 2699.192319715382,
+      "junior_cost_percentiles": {
+        "p10": 2627.863765346709,
+        "p50": 5046.533867246245,
+        "p90": 9139.402248203227
+      },
+      "total_cost_percentiles": {
+        "p10": 4071.695730578026,
+        "p50": 7827.186016047349,
+        "p90": 14132.54832471945
+      }
+    },
+    "consulting_deck": {
+      "draft_cost_median": 4288.519772503854,
+      "churn_cost_median": 4658.664286105019,
+      "review_cost_median": 4977.3939005126485,
+      "junior_cost_percentiles": {
+        "p10": 4969.268631691513,
+        "p50": 9028.485520730374,
+        "p90": 15701.217733300038
+      },
+      "total_cost_percentiles": {
+        "p10": 7669.336687221385,
+        "p50": 14117.099808655035,
+        "p90": 24926.527793007495
+      }
+    }
+  }
+}
